@@ -1,4 +1,5 @@
-![](https://media1.tenor.com/images/ebacd128816ff48e8cb1bfaf06c29eed/tenor.gif?itemid=14177333)
+![](https://media1.tenor.com/images/ebacd128816ff48e8cb1bfaf06c29eed/tenor.gif?itemid=14177333) ![](https://m.media-amazon.com/images/I/61-cZH0dA6L._UXNaN_FMjpg_QL85_.jpg)
+
 ### Hi there 👋
 
 <!--
