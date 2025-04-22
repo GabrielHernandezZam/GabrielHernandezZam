@@ -1,16 +1,31 @@
-![](https://media1.tenor.com/images/ebacd128816ff48e8cb1bfaf06c29eed/tenor.gif?itemid=14177333) ![](https://m.media-amazon.com/images/I/61-cZH0dA6L._UXNaN_FMjpg_QL85_.jpg)
+# Hi, I'm Gabriel! 👋
 
-### Quiubo, como andas? 👋
+💻 Full Stack Developer in progress | JavaScript & TypeScript enthusiast 🚀  
+Currently learning React + Vite + Tailwind and backend with Node.js.  
+Passionate about turning ideas into real-world apps and leveling up every day.
 
+---
 
-Un gusto, bienvendio a mi perfil, me llamo 👨🏻‍💻Jesus Gabriel👨🏻‍💻
+## 💡 About Me
 
+- 🔥 Focused on mastering **JavaScript**, **TypeScript**, **React**, and backend with **Node.js**.
+- 🐧 Learning **Linux server administration**, **Docker**, and **network setups**.
+- 📈 Always improving and challenging myself to reach the next level.
 
-| HORA  | LUNES                             | MARTES                            | MIERCOLES                        | JUEVES                            | VIERNES                           |
-|-------|-----------------------------------|-----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|
-| 13:00 |       INGENIERIA DE SOFTWARE      |       INGENIERIA DE SOFTWARE      | INGENIERIA DE SOFTWARE           | INGENIERIA  DE SOFTWARE           | INGENIERIA  DE SOFTWARE           |
-| 14:00 | LENGUAJES Y AUTOMATAS 1           | LENGUAJES Y AUTOMATAS 1           | LENGUAJES Y AUTOMATAS 1          | LENGUAJES Y AUTOMATAS 1           | LENGUAJES Y AUTOMATAS 1           |
-| 15:00 | REDES DE  COMPUTADORAS            | REDES DE  COMPUTADORAS            | REDES DE COMPUTADORAS            | REDES DE  COMPUTADORAS            | REDES DE  COMPUTADORAS            |
-| 16:00 | LENGUAJES DE INTERFAZ             | LENGUAJES DE  INTERFAZ            | LENGUAJES DE INTERFAZ            | LENGUAJES DE INTERFAZ             | LENGUAJES DE INTERFAZ             |
-| 17:00 | PROGRAMACION LOGICA Y  FUNCIONAL  | PROGRAMACION LOGICA Y  FUNCIONAL  | PROGRAMACION LOGICA Y  FUNCIONAL | PROGRAMACION LOGICA Y  FUNCIONAL  | PROGRAMACION LOGICA Y  FUNCIONAL  |
-| 18:00 | ADMINISTRACION DE BASES DE  DATOS | ADMINISTRACION DE BASES DE  DATOS | ADMINISTRACION DE BASES DE DATOS | ADMINISTRACION DE BASES DE  DATOS | ADMINISTRACION DE BASES DE  DATOS |
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React, Vite, Tailwind, TypeScript
+- **Backend:** Node.js, JavaScript
+- **Tools:** Docker, Git, Linux
+
+---
+
+## 💪 Personal Motto
+
+**"No pararé hasta ser leyenda."**
+
+---
+
+Thanks for stopping by! Let's connect and build something great.
