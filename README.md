@@ -1,8 +1,8 @@
 ![Banner](https://via.placeholder.com/1200x300?text=Gabriel+Hernandez+-+Full+Stack+Dev)
-
-# Hola, soy Gabriel Hernandez 👋
-Desarrollador Full Stack en formación | Apasionado por el despliegue y la infraestructura | Entusiasta del aprendizaje constante
-
+<div aling="center">
+  <h1>Hola, Soy Gabriel Zamarripa 👋</h1>
+  <h3>Desarrollador Full Stack en formación | Desarrollador Web</h3>
+</div>
 ---
 
 ## 🚀 Sobre mí
